@@ -1,1 +1,1 @@
-Slack bot that creates Google Calendar reminders using natural language queries.
+Language-aware and intelligent Slack Bot that can create Google Calendar reminders using natural language queries.
